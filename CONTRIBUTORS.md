@@ -19,7 +19,8 @@
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 ## Name Prateek (https://github.com/Bru-WAYNE)
--Place Jaipur Rajasthan India 
+
+-Place Jaipur Rajasthan India
 -Bio: Pursuing Btech
 -Github https://github.com/Bru-WAYNE
 
